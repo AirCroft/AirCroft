@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AirCroft
+- 👀 I’m interested in learning JAVASCRIPT
+- 🌱 I’m currently learning HTML AND CSS
+- 💞️ I’m looking to collaborate on N/A
+- 📫 How to reach me: Discord; Mr.Croft#8365
